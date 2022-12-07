@@ -1,6 +1,6 @@
 
 import axios from 'axios'
-const baseUrl = 'http://fs03-backend.vercel.app/api/persons'
+const baseUrl = 'https://fs03-backend.vercel.app/api/persons'
 
 const getAll = () => {
     console.log('getAll')
